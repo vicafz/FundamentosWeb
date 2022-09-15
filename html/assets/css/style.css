@@ -1,0 +1,87 @@
+
+body  { 
+
+    background-image: url(../img/bg_fundo_blog.png);
+    background-repeat: no-repeat ;
+    background-size:cover ;
+}
+
+.color {
+
+    background-color: rgb(116, 199, 171) !important;
+}
+
+
+.row {
+
+    padding-left: 1px;
+    padding-right:1px;
+    
+}
+
+.card {
+
+    background-color: rgb(255, 250, 238) !important;
+}
+
+
+.footer{
+    background-color: #8d7281;
+}
+ul.social-network{
+
+    list-style: none;
+    padding: 0;
+    
+
+}
+
+ul.social-network li{
+
+    display: inline;
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+
+
+}
+.fa{
+    font-size: 30pt;
+    padding: 10px;
+}
+
+.fa-facebook-square:hover{
+
+    color: rgb(157, 68, 130);
+}
+
+.fa-github-square:hover{
+
+    color: rgb(149, 40, 116);
+}
+
+.fa-linkedin-square:hover{
+
+    color: rgb(149, 40, 116);
+
+}
+
+.fa-facebook-square{
+
+    color: white;
+}
+
+.fa-github-square{
+
+    color: white;
+}
+
+.fa-linkedin-square{
+
+    color:white;
+}
+
+.footer-copyright {
+
+    background-color: #3e2854;
+}
